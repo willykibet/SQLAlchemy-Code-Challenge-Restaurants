@@ -38,6 +38,8 @@ This code challenge focuses on building a domain model for restaurant reviews us
 
 - **Folder Structure**: Ensure all necessary files and directories are correctly structured.
 - **Initializers and Methods**: Implement all required methods within the classes.
+
+
 - **Object Relationship Methods**: Verify the accuracy of object relationship methods.
 - **Method Usage and Correctness**: Ensure methods are appropriately used and yield correct results.
 
